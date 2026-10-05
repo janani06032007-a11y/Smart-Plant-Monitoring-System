@@ -40,7 +40,7 @@ The system uses a soil moisture sensor to detect the moisture level of the soil.
 
 ## 🔌 Circuit Diagram
 
-![Smart Plant Monitoring System](circuit.png)
+![Smart Plant Monitoring System](circuit(2).png)
 
 ## 🔗 Wokwi Simulation
 
